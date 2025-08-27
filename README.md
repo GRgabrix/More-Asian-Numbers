@@ -23,4 +23,4 @@ With this resourcepack, all levels – including the first 10 – up to 255 are 
 </details>
 
 ---
-![With resourcepack](https://cdn.modrinth.com/data/bxku1HqE/images/5d6ee605f55eb81b60fe8c3252d1d4cffee17087.png)
+![With resourcepack](https://cdn.modrinth.com/data/bxku1HqE/images/a6cd9e3e4e67214aac5e3c5b9cac342bab2354f2.png)
